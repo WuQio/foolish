@@ -1,0 +1,4 @@
+FAT 2 blocks, 2nd to 5th block
+rootdir 1 block, 6th block
+1024 blocks 1000 chars each
+data from 6th block

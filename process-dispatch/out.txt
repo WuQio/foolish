@@ -1,0 +1,455 @@
+Processes have been produced.
+
+
+Choose process named A
+Start to run.
+runtime==75575	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named H
+Start to run.
+runtime==60568	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named I
+Start to run.
+runtime==90095	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named N
+Start to run.
+runtime==68904	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named T
+Start to run.
+runtime==63447	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named M
+Start to run.
+runtime==60760	slice==23000
+Process's slice has been used out, out CPU.
+
+Choose process named Q
+Start to run.
+runtime==55235	slice==23000
+Process's slice has been used out, out CPU.
+
+Choose process named B
+Start to run.
+runtime==52183	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named P
+Start to run.
+runtime==35813	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named S
+Start to run.
+runtime==60586	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named V
+Start to run.
+runtime==19847	slice==22000
+Process run over.
+
+Choose process named Z
+Start to run.
+runtime==89974	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named C
+Start to run.
+runtime==78956	slice==21000
+Process's slice has been used out, out CPU.
+
+Choose process named A
+Start to run.
+runtime==51575	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named L
+Start to run.
+runtime==77594	slice==21000
+Process's slice has been used out, out CPU.
+
+Choose process named R
+Start to run.
+runtime==87414	slice==21000
+Process's slice has been used out, out CPU.
+
+Choose process named U
+Start to run.
+runtime==81312	slice==20000
+Process's slice has been used out, out CPU.
+
+Choose process named F
+Start to run.
+runtime==78004	slice==19000
+Process's slice has been used out, out CPU.
+
+Choose process named H
+Start to run.
+runtime==36568	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named X
+Start to run.
+runtime==70144	slice==19000
+Process's slice has been used out, out CPU.
+
+Choose process named Y
+Start to run.
+runtime==56833	slice==18000
+Process's slice has been used out, out CPU.
+
+Choose process named G
+Start to run.
+runtime==51946	slice==17000
+Process's slice has been used out, out CPU.
+
+Choose process named J
+Start to run.
+runtime==66960	slice==17000
+Process's slice has been used out, out CPU.
+
+Choose process named O
+Start to run.
+runtime==28640	slice==17000
+Process's slice has been used out, out CPU.
+
+Choose process named D
+Start to run.
+runtime==45757	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named I
+Start to run.
+runtime==66095	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named E
+Start to run.
+runtime==46072	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named K
+Start to run.
+runtime==52315	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named W
+Start to run.
+runtime==92677	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named N
+Start to run.
+runtime==44904	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named T
+Start to run.
+runtime==39447	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named M
+Start to run.
+runtime==37760	slice==23000
+Process's slice has been used out, out CPU.
+
+Choose process named Q
+Start to run.
+runtime==32235	slice==23000
+Process's slice has been used out, out CPU.
+
+Choose process named B
+Start to run.
+runtime==30183	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named P
+Start to run.
+runtime==13813	slice==22000
+Process run over.
+
+Choose process named S
+Start to run.
+runtime==38586	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named Z
+Start to run.
+runtime==67974	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named A
+Start to run.
+runtime==27575	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named C
+Start to run.
+runtime==57956	slice==21000
+
+still me.
+
+Process's slice has been used out, out CPU.
+
+Choose process named L
+Start to run.
+runtime==56594	slice==21000
+Process's slice has been used out, out CPU.
+
+Choose process named R
+Start to run.
+runtime==66414	slice==21000
+Process's slice has been used out, out CPU.
+
+Choose process named U
+Start to run.
+runtime==61312	slice==20000
+Process's slice has been used out, out CPU.
+
+Choose process named H
+Start to run.
+runtime==12568	slice==24000
+Process run over.
+
+Choose process named F
+Start to run.
+runtime==59004	slice==19000
+
+still me.
+
+Process's slice has been used out, out CPU.
+
+Choose process named X
+Start to run.
+runtime==51144	slice==19000
+Process's slice has been used out, out CPU.
+
+Choose process named Y
+Start to run.
+runtime==38833	slice==18000
+Process's slice has been used out, out CPU.
+
+Choose process named G
+Start to run.
+runtime==34946	slice==17000
+Process's slice has been used out, out CPU.
+
+Choose process named I
+Start to run.
+runtime==42095	slice==24000
+Process's slice has been used out, out CPU.
+
+Choose process named J
+Start to run.
+runtime==49960	slice==17000
+Process's slice has been used out, out CPU.
+
+Choose process named O
+Start to run.
+runtime==11640	slice==17000
+Process run over.
+
+Choose process named D
+Start to run.
+runtime==29757	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named N
+Start to run.
+runtime==20904	slice==24000
+Process run over.
+
+Choose process named E
+Start to run.
+runtime==30072	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named T
+Start to run.
+runtime==15447	slice==24000
+Process run over.
+
+Choose process named K
+Start to run.
+runtime==36315	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named W
+Start to run.
+runtime==76677	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named M
+Start to run.
+runtime==14760	slice==23000
+Process run over.
+
+Choose process named Q
+Start to run.
+runtime==9235	slice==23000
+Process run over.
+
+Choose process named B
+Start to run.
+runtime==8183	slice==22000
+Process run over.
+
+Choose process named S
+Start to run.
+runtime==16586	slice==22000
+Process run over.
+
+Choose process named Z
+Start to run.
+runtime==45974	slice==22000
+Process's slice has been used out, out CPU.
+
+Choose process named A
+Start to run.
+runtime==3575	slice==24000
+Process run over.
+
+Choose process named C
+Start to run.
+runtime==15956	slice==21000
+Process run over.
+
+Choose process named L
+Start to run.
+runtime==35594	slice==21000
+Process's slice has been used out, out CPU.
+
+Choose process named R
+Start to run.
+runtime==45414	slice==21000
+Process's slice has been used out, out CPU.
+
+Choose process named U
+Start to run.
+runtime==41312	slice==20000
+
+still me.
+
+Process's slice has been used out, out CPU.
+
+Choose process named F
+Start to run.
+runtime==21004	slice==19000
+Process's slice has been used out, out CPU.
+
+Choose process named X
+Start to run.
+runtime==32144	slice==19000
+Process's slice has been used out, out CPU.
+
+Choose process named I
+Start to run.
+runtime==18095	slice==24000
+Process run over.
+
+Choose process named Y
+Start to run.
+runtime==20833	slice==18000
+Process's slice has been used out, out CPU.
+
+Choose process named G
+Start to run.
+runtime==17946	slice==17000
+
+still me.
+
+Process run over.
+
+Choose process named J
+Start to run.
+runtime==32960	slice==17000
+
+still me.
+
+Process run over.
+
+Choose process named D
+Start to run.
+runtime==13757	slice==16000
+Process run over.
+
+Choose process named E
+Start to run.
+runtime==14072	slice==16000
+Process run over.
+
+Choose process named K
+Start to run.
+runtime==20315	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named W
+Start to run.
+runtime==60677	slice==16000
+Process's slice has been used out, out CPU.
+
+Choose process named Z
+Start to run.
+runtime==23974	slice==22000
+
+still me.
+
+Process run over.
+
+Choose process named L
+Start to run.
+runtime==14594	slice==21000
+Process run over.
+
+Choose process named R
+Start to run.
+runtime==24414	slice==21000
+
+still me.
+
+Process run over.
+
+Choose process named U
+Start to run.
+runtime==1312	slice==20000
+Process run over.
+
+Choose process named F
+Start to run.
+runtime==2004	slice==19000
+Process run over.
+
+Choose process named X
+Start to run.
+runtime==13144	slice==19000
+Process run over.
+
+Choose process named Y
+Start to run.
+runtime==2833	slice==18000
+Process run over.
+
+Choose process named K
+Start to run.
+runtime==4315	slice==16000
+Process run over.
+
+Choose process named W
+Start to run.
+runtime==44677	slice==16000
+
+still me.
+
+
+still me.
+
+Process run over.
+
