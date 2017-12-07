@@ -1,0 +1,6 @@
+create table user(ID varchar(10), name varchar(20) not null, password varchar(128) not null, is_teacher tinyint(1) default 0, primary key (ID));
+ create table course(courseID int(10) unsigned zerofill auto_increment, cname varchar(50) not null, TID varchar(10) not null, code varchar(6) not null, primary key (courseID));
+ create table experiment(ExpID int(10) unsigned zerofill auto_increment, courseID int unsigned zerofill not null, ExpName varchar(50) not null, imageID varchar(12), primary key(ExpID));
+create table chosen_course(SID varchar(10), courseID int(10) unsigned zerofill, primary key (SID, courseID)); 
+alter table user modify name varchar(20) character set utf8 not null;
+alter table course modify cname varchar(50) character set utf8 not null;
