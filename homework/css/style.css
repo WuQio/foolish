@@ -80,9 +80,9 @@
 	}
 	.block{
 		display: inline-block;
-		width: 180px;
+		width: 120px;
 		vertical-align: top;
-		margin: 0 16px;
+		margin: 10px 60px;
 	}
 	ul{
 		list-style: none;
